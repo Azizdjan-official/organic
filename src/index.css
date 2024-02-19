@@ -1,0 +1,274 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.footerBG
+{
+    width: 80%;
+    height: 323px;
+    margin: auto;
+    border-radius: 25px;
+    background: url(/src/images/Photo_10.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.firstcard
+{
+    background: url(../src/images/infocard.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 367px;
+    width: 50%;
+}
+.secondcard
+{
+    background: url(../src/images/infocard2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 367px;
+    width: 50%;
+    border-radius: 15px;
+}
+.customerBG
+{
+    background: url(../src/images/customerBG.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+.organicfirst
+{
+    background: url(../src/images/organic1.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    width: 32%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.organicsecond
+{
+    background: url(../src/images/organic2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    width: 32%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.organicthird
+{
+    background: url(../src/images/organic3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    width: 32%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.redcard
+{
+    background: url(../src/images/red.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    
+}
+.greencard
+{
+    background: url(../src/images/green.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh; 
+}
+.purplecard
+{
+    background: url(../src/images/purplecard.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh; 
+}
+.yellowgreen
+{
+    background: url(../src/images/yellowgreen.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh; 
+}
+.bluecard
+{
+    background: url(../src/images/bluecard.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh; 
+}
+.whitecard
+{
+    background: url(../src/images/whitecard.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh; 
+}
+.heroAbout
+{
+    background: url(../src/images/heroAbout.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh; 
+}
+.licencesBG
+{
+    background: url(../src/images/licensesBG.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20vh; 
+}
+.protectedpage
+{
+    background: url(../src/images/protectedPage.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20vh; 
+}
+.changelogBG
+{
+    background: url(../src/images/changeLogBG.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20vh; 
+}
+.shopheroBG
+{
+    background: url(../src/images/shopheroBG.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh; 
+}
+.shopSingleBG
+{
+    background: url(../src/images/shopSingleHeroBG.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh; 
+}
+.serviceheroBG
+{
+    background: url(../src/images/serviceheroBG.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh; 
+}
+.organicServiceBG
+{
+    background: url(../src/images/organicBG.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh; 
+}
+.servicesingle
+{
+    background: url(../src/images/ServiceSingleBG.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh; 
+}
+.portfolioBG
+{
+    background: url(../src/images/portfolioBanner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh; 
+}
+.portfolioSingle
+{
+    background: url(../src/images/portfoliSingleHero.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh; 
+}
+.teamBG
+{
+    background: url(../src/images/TeamBG.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh; 
+}
+.blogBG
+{
+    background: url(../src/images/blogHeroBG.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh; 
+}
+.blogSingle
+{
+    background: url(../src/images/blogsingle.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh; 
+}
+.contactBG
+{
+    background: url(../src/images/contactHero.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh; 
+}
+.farmImage
+{
+    background: url(../src/images/farmImage.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh; 
+}
+.Page404
+{
+    background: url(../src/images/404.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh; 
+}
+.homeBG
+{
+    background: url(../src/images/homeBG.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh; 
+}
+
